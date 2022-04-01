@@ -10,6 +10,18 @@ This is a basis Rest for bookmaks
 
 **PUT**
 ![imagen_put](./images/api_bookmarkPUT.png)
+
+## FOR RUNNING TESTS
+
+With **Django test framework**
+
+```bash
+cd admin
+```
+
+```bash
+python manage.py test
+```
 ## TRY
 
 For list bookmarks, run:
